@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FineDustMeter</string>
+    <string name="url">http://192.168.4.1:80/</string>
+    <string name="title_activity_location_listener">LocationListener</string>
+</resources>
